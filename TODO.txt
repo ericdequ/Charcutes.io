@@ -17,4 +17,5 @@ Home Page
 - Change 2 Images Below Creators Page
 - Add Review Section 
 - Add Links To Social Media's in bottom right
+- Change Add To Cart To A Link
 
